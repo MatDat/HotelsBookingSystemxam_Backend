@@ -1,2 +1,4 @@
-package com.example.hotelsbookingsystemxam_backend.service;public class ReservationService {
+package com.example.hotelsbookingsystemxam_backend.service;
+
+public class ReservationService {
 }

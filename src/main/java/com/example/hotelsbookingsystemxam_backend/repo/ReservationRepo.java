@@ -1,2 +1,4 @@
-package com.example.hotelsbookingsystemxam_backend.repo;public class ReservationRepo {
+package com.example.hotelsbookingsystemxam_backend.repo;
+
+public interface ReservationRepo {
 }
